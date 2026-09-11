@@ -8,10 +8,6 @@
     <b>Full Stack Developer · AI Engineer · Network & Infrastructure Specialist</b>
   </p>
 
-  <p>
-    <i>"Bridging high-performance software, autonomous AI agents, and resilient network architecture."</i>
-  </p>
-
   <br />
 
   <!-- Action Badges -->
@@ -42,8 +38,6 @@
 ### 💡 About Me
 
 I am a **Full Stack Developer** and **AI Engineer** with a strong foundation in **Network Architecture & IT Infrastructure**. 
-
-What sets my work apart is the combination of **systems-level thinking** with **modern software engineering**: I build scalable web applications, orchestrate autonomous multi-agent AI systems, and possess deep understanding of the underlying networking layers, protocols, and Linux servers that keep applications fast, secure, and reliable.
 
 - 🔭 **Current Focus:** AI Agent Orchestration, LLM Fine-Tuning & High-throughput Backends.
 - 🎓 **Education:** Systems Analysis & Development at **UNISC** | AI Engineering at **Alura** | Computer Engineering coursework (UNISC).
@@ -129,8 +123,6 @@ Networks:     TCP/IP, OSI Model, Zabbix, Grafana, NetBox, UNM2000, GeoGrid (GIS)
 ### 💡 Sobre Mim
 
 Sou **Desenvolvedor Full Stack** e **Engenheiro de Inteligência Artificial**, com sólido background prático em **Arquitetura de Redes e Infraestrutura de TI**.
-
-O meu grande diferencial está em conectar a visão de **baixo nível e infraestrutura** com a criação de **softwares modernos de ponta a ponta**: desenvolvo backends eficientes e escaláveis, orquestro ecossistemas de agentes autônomos de IA e compreendo a fundo protocolos de rede, sistemas Linux e observabilidade para garantir estabilidade e alta performance.
 
 - 🔭 **Foco Atual:** Orquestração de Agentes de IA, Fine-Tuning de LLMs e desenvolvimento de backends robustos.
 - 🎓 **Formação:** Análise e Desenvolvimento de Sistemas na **UNISC** | Engenharia de IA na **Alura** | Formação básica em Engenharia da Computação (UNISC).
