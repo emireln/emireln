@@ -221,7 +221,7 @@ Seja para trocar ideias sobre projetos de software, oportunidades de desenvolvim
 <br />
 
 <div align="center">
-  <sub>Construído com atenção aos detalhes por <b>Emir Lima Neto</b> · Rio Pardo, RS — Brasil 🇧🇷</sub>
+  <sub>README construído com atenção aos detalhes por <b>Emir Lima Neto</b> & OxAlpha · Rio Pardo, RS — Brasil 🇧🇷</sub>
 </div>
 
 <div align="right">
