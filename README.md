@@ -1,9 +1,6 @@
 <a id="top"></a>
 
 <div align="center">
-
-  <!-- Profile Header -->
-  <h1>Emir Lima Neto</h1>
   <p>
     <b>Full Stack Developer · AI Engineer · Network & Infrastructure Specialist</b>
   </p>
