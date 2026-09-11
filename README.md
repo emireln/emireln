@@ -3,10 +3,6 @@
 <div align="center">
 
   <!-- Profile Header -->
-  <a href="https://emirln.com">
-    <img src="https://raw.githubusercontent.com/emireln/emireln/main/public/emirln-icon.png" alt="Emir Lima Neto Logo" width="84" onerror="this.style.display='none'"/>
-  </a>
-
   <h1>Emir Lima Neto</h1>
   <p>
     <b>Full Stack Developer · AI Engineer · Network & Infrastructure Specialist</b>
