@@ -48,11 +48,11 @@ What sets my work apart is the combination of **systems-level thinking** with **
 - 🔭 **Current Focus:** AI Agent Orchestration, LLM Fine-Tuning & High-throughput Backends.
 - 🎓 **Education:** Systems Analysis & Development at **UNISC** | AI Engineering at **Alura** | Computer Engineering coursework (UNISC).
 - 🌍 **Languages:** Portuguese (Native) · English (B2 - Professional Working Proficiency).
-- 📍 **Portfolio:** [emirln.com](https://emirln.com)
+- 📍 **Website:** [emirln.com](https://emirln.com)
 
 ---
 
-### ⚡ Strategic Superpowers
+### ⚡ Knowledges
 
 <table>
   <tr>
@@ -117,22 +117,7 @@ Networks:     TCP/IP, OSI Model, Zabbix, Grafana, NetBox, UNM2000, GeoGrid (GIS)
 - **☁️ Oracle Cloud Foundations Associate** — Oracle
 - **🧠 LangChain & Python: AI Agents & LLMs** — Alura
 - **📡 EPON & GPON Optical Networks** — Intelbras
-
----
-
-### 📊 GitHub Overview
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emireln&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Emir's GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emireln&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
-<br />
-
-<div align="right">
-  <a href="#top">⬆ Back to top</a>
-</div>
+- **⭐ Full-Stack Programming & English** — Udemy / YouTube
 
 ---
 
@@ -150,11 +135,11 @@ O meu grande diferencial está em conectar a visão de **baixo nível e infraest
 - 🔭 **Foco Atual:** Orquestração de Agentes de IA, Fine-Tuning de LLMs e desenvolvimento de backends robustos.
 - 🎓 **Formação:** Análise e Desenvolvimento de Sistemas na **UNISC** | Engenharia de IA na **Alura** | Formação básica em Engenharia da Computação (UNISC).
 - 🌍 **Idiomas:** Português (Nativo) · Inglês (B2 - Comunicação técnica e profissional).
-- 📍 **Portfólio Online:** [emirln.com](https://emirln.com)
+- 📍 **Website:** [emirln.com](https://emirln.com)
 
 ---
 
-### ⚡ Diferenciais Estratégicos
+### ⚡ Conhecimentos
 
 <table>
   <tr>
@@ -217,12 +202,13 @@ Infra & Redes: TCP/IP, Modelo OSI, Linux, Docker, Zabbix, Grafana, NetBox, Oracl
 - **☁️ Oracle Cloud Foundations Associate** — Oracle
 - **🧠 LangChain & Python: Agentes e LLMs** — Alura
 - **📡 Redes EPON & GPON** — Intelbras
+- **⭐ Programação Full Stack & Inglês** — Udemy / Youtube
 
 ---
 
 ### 📬 Vamos conversar? / Let's Connect
 
-Seja para trocar ideias sobre projetos de software, oportunidades de desenvolvimento full stack, engenharia de IA ou infraestrutura, fique à vontade para entrar em contato:
+Seja para trocar ideias sobre projetos de software, oportunidades de desenvolvimento, engenharia de IA ou infraestrutura, fique à vontade para entrar em contato:
 
 <p align="center">
   <a href="https://wa.me/5548991383999?text=Ol%C3%A1%20Emir%2C%20vi%20seu%20GitHub!"><img src="https://img.shields.io/badge/Fale_Comigo_no_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Direto" /></a>
@@ -235,7 +221,7 @@ Seja para trocar ideias sobre projetos de software, oportunidades de desenvolvim
 <br />
 
 <div align="center">
-  <sub>Construído com atenção aos detalhes por <b>Emir Lima Neto</b> · Florianópolis & Santa Cruz do Sul, Brasil 🇧🇷</sub>
+  <sub>Construído com atenção aos detalhes por <b>Emir Lima Neto</b> · Rio Pardo, RS — Brasil 🇧🇷</sub>
 </div>
 
 <div align="right">
