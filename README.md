@@ -37,15 +37,6 @@ Full stack developer and AI engineer with hands-on experience in networking and 
 - **Backend & Cloud:** PostgreSQL, Docker, Linux, Oracle Cloud
 - **Networking & Ops:** TCP/IP, OSI, Zabbix, Grafana, NetBox
 
-### Education & Certifications
-
-- **B.S. in Systems Analysis & Development (ADS)** — UNISC *(In progress)*
-- **AI Engineering Track** — Alura *(In progress)*
-- **CC50 (Computer Science)** — Harvard CS50 / Fundação Estudar
-- **Networking & Hardware Basics** — Cisco Networking Academy
-- **Oracle Cloud Infrastructure Foundations** — Oracle
-- **Optical Networks (EPON / GPON)** — Intelbras
-
 ---
 
 <a id="portugues"></a>
@@ -67,15 +58,6 @@ Desenvolvedor full stack e engenheiro de IA com experiência prática em redes e
 - **Frontend:** React, Vite, Tailwind CSS, HTML5/CSS3
 - **IA e Dados:** LangChain, APIs de LLMs, PostgreSQL
 - **DevOps e Redes:** Linux, Docker, Oracle Cloud, TCP/IP, Zabbix, Grafana, NetBox
-
-### Formação e Certificações
-
-- **Análise e Desenvolvimento de Sistemas (ADS)** — UNISC *(Cursando)*
-- **Engenharia de IA** — Alura *(Em andamento)*
-- **CC50 (Ciência da Computação)** — Harvard CS50 / Fundação Estudar
-- **Fundamentos de Redes e Hardware** — Cisco Networking Academy
-- **Oracle Cloud Infrastructure Foundations** — Oracle
-- **Redes Ópticas (EPON / GPON)** — Intelbras
 
 ---
 
