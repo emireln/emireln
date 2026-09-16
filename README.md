@@ -32,18 +32,15 @@
 <a id="english"></a>
 # 🇺🇸 English
 
-### 💡 About Me
+### About Me
 
 I am a **Full Stack Developer** and **AI Engineer** with a strong foundation in **Network Architecture & IT Infrastructure**. 
 
-- 🔭 **Current Focus:** AI Agent Orchestration, LLM Fine-Tuning & High-throughput Backends.
-- 🎓 **Education:** Systems Analysis & Development at **UNISC** | AI Engineering at **Alura** | Computer Engineering coursework (UNISC).
-- 🌍 **Languages:** Portuguese (Native) · English (B2 - Professional Working Proficiency).
-- 📍 **Website:** [emirln.com](https://emirln.com)
+- **Website:** [emirln.com](https://emirln.com)
 
 ---
 
-### ⚡ Knowledges
+### Knowledges
 
 <table>
   <tr>
@@ -64,7 +61,7 @@ I am a **Full Stack Developer** and **AI Engineer** with a strong foundation in 
 
 ---
 
-### 🛠️ Tech Stack & Tooling
+### Tech Stack & Tooling
 
 ```yaml
 Languages:    Python, Rust, TypeScript, JavaScript, C#, C, Shell/Bash, SQL
@@ -99,7 +96,7 @@ Networks:     TCP/IP, OSI Model, Zabbix, Grafana, NetBox, UNM2000, GeoGrid (GIS)
 
 ---
 
-### 🎓 Education & Key Certifications
+### Education & Key Certifications
 
 - **🎓 Systems Analysis and Development (ADS)** — UNISC *(In progress)*
 - **🤖 Artificial Intelligence Engineering** — Alura *(In progress)*
@@ -117,18 +114,15 @@ Networks:     TCP/IP, OSI Model, Zabbix, Grafana, NetBox, UNM2000, GeoGrid (GIS)
 <a id="portugues"></a>
 # 🇧🇷 Português
 
-### 💡 Sobre Mim
+### Sobre Mim
 
 Sou **Desenvolvedor Full Stack** e **Engenheiro de Inteligência Artificial**, com sólido background prático em **Arquitetura de Redes e Infraestrutura de TI**.
 
-- 🔭 **Foco Atual:** Orquestração de Agentes de IA, Fine-Tuning de LLMs e desenvolvimento de backends robustos.
-- 🎓 **Formação:** Análise e Desenvolvimento de Sistemas na **UNISC** | Engenharia de IA na **Alura** | Formação básica em Engenharia da Computação (UNISC).
-- 🌍 **Idiomas:** Português (Nativo) · Inglês (B2 - Comunicação técnica e profissional).
-- 📍 **Website:** [emirln.com](https://emirln.com)
+- **Website:** [emirln.com](https://emirln.com)
 
 ---
 
-### ⚡ Conhecimentos
+### Conhecimentos
 
 <table>
   <tr>
@@ -149,7 +143,7 @@ Sou **Desenvolvedor Full Stack** e **Engenheiro de Inteligência Artificial**, c
 
 ---
 
-### 🛠️ Tecnologias & Competências
+### Tecnologias & Competências
 
 ```yaml
 Linguagens:    Python, Rust, TypeScript, JavaScript, C#, C, Shell Scripting, SQL
@@ -182,7 +176,7 @@ Infra & Redes: TCP/IP, Modelo OSI, Linux, Docker, Zabbix, Grafana, NetBox, Oracl
 
 ---
 
-### 🎓 Formação Acadêmica & Certificações Relevantes
+### Formação Acadêmica & Certificações Relevantes
 
 - **🎓 Análise e Desenvolvimento de Sistemas (ADS)** — UNISC *(Cursando)*
 - **🤖 Engenharia de Inteligência Artificial** — Alura *(Especialização em andamento)*
@@ -195,7 +189,7 @@ Infra & Redes: TCP/IP, Modelo OSI, Linux, Docker, Zabbix, Grafana, NetBox, Oracl
 
 ---
 
-### 📬 Vamos conversar? / Let's Connect
+### Vamos conversar? / Let's Connect
 
 Seja para trocar ideias sobre projetos de software, oportunidades de desenvolvimento, engenharia de IA ou infraestrutura, fique à vontade para entrar em contato:
 
