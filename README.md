@@ -26,16 +26,8 @@ Full stack developer and AI engineer with hands-on experience in networking and 
 ### Focus Areas
 
 - **AI & Automation:** Agent workflows, tool calling, and LLM integrations using LangChain and custom model setups.
-- **Full Stack Development:** Backend APIs and web apps built with Python, Rust, TypeScript, C#, and React.
+- **Full Stack Development:** Backend APIs and web apps built with Python, Rust, JavaScript, C#, and React.
 - **Networks & Sysadmin:** Network design (TCP/IP), Linux server administration, Docker containerization, and monitoring with Zabbix and Grafana.
-
-### Stack
-
-- **Languages:** Python, Rust, TypeScript, JavaScript, C#, C, Bash, SQL
-- **Frontend:** React, Vite, Tailwind CSS, HTML5/CSS3
-- **AI / ML:** LangChain, LLM APIs, Agent Architectures, Scikit-learn
-- **Backend & Cloud:** PostgreSQL, Docker, Linux, Oracle Cloud
-- **Networking & Ops:** TCP/IP, OSI, Zabbix, Grafana, NetBox
 
 ---
 
@@ -49,15 +41,8 @@ Desenvolvedor full stack e engenheiro de IA com experiência prática em redes e
 ### Áreas de Atuação
 
 - **IA e Automação:** Agentes autônomos, chamadas de ferramentas e integração de LLMs com LangChain e APIs.
-- **Desenvolvimento Full Stack:** Construção de sistemas e APIs com Python, Rust, TypeScript, C# e React.
+- **Desenvolvimento Full Stack:** Construção de sistemas e APIs com Python, Rust, JavaScript, C# e React.
 - **Redes e Infraestrutura:** Administração de servidores Linux, contêineres Docker, arquitetura TCP/IP e monitoramento com Zabbix e Grafana.
-
-### Tecnologias
-
-- **Linguagens:** Python, Rust, TypeScript, JavaScript, C#, C, Bash, SQL
-- **Frontend:** React, Vite, Tailwind CSS, HTML5/CSS3
-- **IA e Dados:** LangChain, APIs de LLMs, PostgreSQL
-- **DevOps e Redes:** Linux, Docker, Oracle Cloud, TCP/IP, Zabbix, Grafana, NetBox
 
 ---
 
